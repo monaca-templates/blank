@@ -1,6 +1,6 @@
 {
   "name": "monaca-template-minimum",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "displayName": "Monaca Template Minimum",
   "dependencies": {
     "cordova-plugin-splashscreen": "6.0.0",
