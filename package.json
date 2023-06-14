@@ -1,9 +1,9 @@
 {
   "name": "monaca-template-minimum",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "displayName": "Monaca Template Minimum",
   "dependencies": {
-    "cordova-plugin-splashscreen": "6.0.0",
+    "cordova-plugin-splashscreen": "6.0.2",
     "monaca-plugin-monaca-core": "3.3.1"
   },
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "browser-sync": "~2.27.7",
-    "cordova": "^11.0.0"
+    "cordova": "^12.0.0"
   }
 }
