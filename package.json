@@ -1,9 +1,9 @@
 {
   "name": "monaca-template-minimum",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "displayName": "Monaca Template Minimum",
   "engines": {
-    "node": ">=18.16"
+    "node": ">=20.17"
   },
   "dependencies": {
     "monaca-plugin-monaca-core": "3.3.1"
@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "browser-sync": "~2.27.7",
-    "cordova": "^12.0.0"
+    "cordova": "^13.0.0"
   }
 }
