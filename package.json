@@ -1,6 +1,6 @@
 {
   "name": "monaca-template-minimum",
-  "version": "4.1.6",
+  "version": "4.1.5",
   "displayName": "Monaca Template Minimum",
   "engines": {
     "node": ">=20.17"
